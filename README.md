@@ -6,4 +6,4 @@ this is an example to learn GIT
 
 Some more changes. 
 
-Iasolated changes
+Isolated changes.
